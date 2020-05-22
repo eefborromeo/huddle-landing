@@ -15,6 +15,29 @@ h6 {
   font-weight: 600;
 }
 
-p {
+p,
+button {
   font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-weight: 400;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 1.25rem;
+}
+
+.btn-light {
+  background-color: #ffffff;
+}
+
+/* NAV */
+.logo {
+  width: 30%;
+}
+
+nav .btn {
+  font-size: 0.75rem;
 }
