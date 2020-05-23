@@ -66,4 +66,16 @@ p {
   line-height: 1.5;
 }
 
+/* SECTION 2 */
+.section-2 .card-deck .card {
+  margin-bottom: 40px;
+}
+
+.section-2 .card-body {
+  padding: 3rem 2.25rem;
+}
+
+/* SECTION 3 */
+.section-3 h2 {
+  font-size: 1.1rem;
 }
