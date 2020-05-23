@@ -45,6 +45,10 @@ p {
   font-size: 0.65rem;
 }
 
+.card {
+  border-radius: 1.25rem;
+}
+
 /* NAV */
 .logo {
   width: 29%;
@@ -62,6 +66,4 @@ p {
   line-height: 1.5;
 }
 
-.section-1 .btn-primary {
-  padding: 3% 20%;
 }
