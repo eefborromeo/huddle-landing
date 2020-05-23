@@ -3,6 +3,7 @@
 /* BASE STYLES */
 body {
   font-size: 18px;
+  color: hsl(192, 100%, 9%);
 }
 
 h1,
@@ -22,6 +23,7 @@ button {
 
 p {
   font-weight: 400;
+  font-size: 1.02rem;
 }
 
 .btn {
@@ -29,15 +31,36 @@ p {
   border-radius: 1.25rem;
 }
 
+.btn-primary {
+  background-color: hsl(322, 100%, 66%);
+  border-color: hsl(322, 100%, 66%);
+  font-size: 0.75rem;
+  margin: 2rem 0 3rem;
+  letter-spacing: 0.5px;
+}
+
 .btn-light {
   background-color: #ffffff;
+  font-size: 0.65rem;
 }
 
 /* NAV */
 .logo {
-  width: 30%;
+  width: 29%;
 }
 
-nav .btn {
-  font-size: 0.75rem;
+/* SECTION 1 */
+.section-1 {
+  background-color: hsl(193, 100%, 96%);
+  background-image: url('images/bg-hero-mobile.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 91.5%;
+}
+
+.section-1 h1 {
+  line-height: 1.5;
+}
+
+.section-1 .btn-primary {
+  padding: 3% 20%;
 }
