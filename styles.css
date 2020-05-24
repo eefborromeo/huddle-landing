@@ -79,3 +79,13 @@ p {
 .section-3 h2 {
   font-size: 1.1rem;
 }
+
+/* FOOTER */
+footer {
+  background-color: hsl(192, 100%, 9%);
+  color: #ffffff;
+}
+
+footer ul {
+  list-style-type: none;
+}
