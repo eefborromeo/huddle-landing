@@ -127,6 +127,10 @@ footer li {
   margin-right: 28px;
 }
 
+.social li {
+  margin-bottom: 0;
+}
+
 .social i {
   border: 1px solid #fff;
   border-radius: 40px;
@@ -136,4 +140,9 @@ footer li {
 .fab.fa-facebook-f {
   padding-left: 10px;
   padding-right: 10px;
+}
+
+footer abbr[title] {
+  font-size: 12px;
+  text-decoration: none;
 }
