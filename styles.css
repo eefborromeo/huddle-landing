@@ -115,6 +115,14 @@ footer li {
   margin-bottom: 18px;
 }
 
+.footer-info li {
+  display: flex;
+}
+
 .footer-info img {
-  margin-right: 5px;
+  margin-right: 24px;
+}
+
+.footer-info li:first-of-type img {
+  margin-right: 28px;
 }
