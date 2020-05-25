@@ -47,6 +47,7 @@ p {
 
 .card {
   border-radius: 1.25rem;
+  border-color: #ffffff;
 }
 
 /* NAV */
@@ -93,4 +94,8 @@ footer {
 footer ul {
   list-style-type: none;
   padding: 0;
+}
+
+.footer-info img {
+  margin-right: 5px;
 }
