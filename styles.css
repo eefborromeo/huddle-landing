@@ -111,6 +111,10 @@ footer ul {
   padding: 0;
 }
 
+footer li {
+  margin-bottom: 18px;
+}
+
 .footer-info img {
   margin-right: 5px;
 }
