@@ -150,6 +150,10 @@ footer abbr[title] {
 
 /* MEDIA QUERIES */
 @media screen and (min-width: 768px) {
+  .section-1 {
+    background-image: url('images/bg-hero-desktop.svg');
+  }
+
   .section-1 .text-center.text-md-left {
     width: 40%;
   }
