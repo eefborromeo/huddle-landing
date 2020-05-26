@@ -164,4 +164,10 @@ footer abbr[title] {
   .section-1 img {
     width: 55%;
   }
+
+  .section-3 .card {
+    width: 70%;
+    left: 15%;
+    right: 15%;
+  }
 }
