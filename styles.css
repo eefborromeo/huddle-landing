@@ -176,4 +176,8 @@ footer abbr[title] {
     left: 15%;
     right: 15%;
   }
+
+  footer abbr[title] {
+    font-size: 11px;
+  }
 }
