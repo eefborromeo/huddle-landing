@@ -212,5 +212,17 @@ footer abbr[title] {
   .section-1 p {
     font-size: 1.16rem;
   }
+
+  .section-2 .card-body {
+    padding: 3rem 1.5rem 3rem 5rem;
+  }
+
+  .section-2 .card-body-text h2 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+
+  .section-2 .card-body-text p {
+    font-size: 1.09rem;
   }
 }
