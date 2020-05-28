@@ -156,8 +156,6 @@ footer abbr[title] {
     background-image: url('images/bg-hero-desktop.svg');
   }
 
-  .section-1 .text-center.text-md-left {
-    width: 40%;
   }
   .section-1 p {
     font-size: 0.62rem;
@@ -166,9 +164,6 @@ footer abbr[title] {
     font-size: 0.5rem;
     margin: 1rem 0 3rem;
     padding: 3% 12%;
-  }
-  .section-1 img {
-    width: 55%;
   }
 
   .section-3 .card {
