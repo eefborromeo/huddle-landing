@@ -152,14 +152,22 @@ footer abbr[title] {
 
 /* MEDIA QUERIES */
 @media screen and (min-width: 768px) {
+  .section-1 .logo img {
+    width: 55%;
+  }
+
   .section-1 {
     background-image: url('images/bg-hero-desktop.svg');
   }
 
+  .section-1 h1 {
+    font-size: 1.7rem;
   }
+
   .section-1 p {
-    font-size: 0.62rem;
+    font-size: 1rem;
   }
+
   .section-1 .btn-primary {
     font-size: 0.5rem;
     margin: 1rem 0 3rem;
