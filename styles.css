@@ -178,5 +178,19 @@ footer abbr[title] {
 }
 
 @media screen and (min-width: 1200px) {
+  .section-1 .btn-primary,
+  .section-1 .btn-light {
+    border-radius: 2.25rem;
+  }
+
+  .section-1 .btn-primary {
+    font-size: 0.9rem;
+  }
+
+  .section-1 .btn-light {
+    font-size: 0.8rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+  }
   }
 }
