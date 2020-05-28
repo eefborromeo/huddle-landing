@@ -183,9 +183,5 @@ footer abbr[title] {
 }
 
 @media screen and (min-width: 1200px) {
-  .container-fluid {
-    padding-top: 20px;
-    padding-left: 90px;
-    padding-right: 90px;
   }
 }
