@@ -237,6 +237,9 @@ footer abbr[title] {
     right: 22.5%;
   }
 
+  .section-3 h2 {
+    font-size: 1.8rem;
+  }
   footer {
     padding: 8rem 0 3rem;
   }
