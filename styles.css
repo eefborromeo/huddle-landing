@@ -111,6 +111,7 @@ a:hover {
 footer {
   background-color: hsl(192, 100%, 9%);
   color: #ffffff;
+  padding: 3rem 0 1rem;
 }
 
 footer ul {
@@ -228,5 +229,8 @@ footer abbr[title] {
 
   .section-2 .card-body-text p {
     font-size: 1.09rem;
+  }
+  footer {
+    padding: 8rem 0 3rem;
   }
 }
