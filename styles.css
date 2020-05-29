@@ -230,6 +230,13 @@ footer abbr[title] {
   .section-2 .card-body-text p {
     font-size: 1.09rem;
   }
+
+  .section-3 .card {
+    width: 55%;
+    left: 22.5%;
+    right: 22.5%;
+  }
+
   footer {
     padding: 8rem 0 3rem;
   }
