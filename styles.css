@@ -92,6 +92,10 @@ a:hover {
   padding: 3rem 2.25rem;
 }
 
+.section-2 .card-body-text p {
+  color: hsl(208, 11%, 55%);
+}
+
 /* SECTION 3 */
 .section-3 h2 {
   font-size: 1.1rem;
