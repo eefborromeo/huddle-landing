@@ -195,6 +195,11 @@ footer abbr[title] {
 }
 
 @media screen and (min-width: 1200px) {
+  .container-lg,
+  .container-md {
+    max-width: 1200px;
+  }
+
   .section-1 .btn-primary,
   .section-1 .btn-light {
     border-radius: 2.25rem;
