@@ -127,6 +127,10 @@ footer li {
   display: flex;
 }
 
+.footer-info li p {
+  font-size: 1rem;
+}
+
 .footer-info img {
   margin-right: 24px;
 }
