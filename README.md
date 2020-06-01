@@ -2,6 +2,8 @@
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
+[Live Demo](https://eefborromeo.github.io/huddle-landing/)
+
 ## Welcome! 👋
 
 Thanks for checking out my submission for the [Frontend Mentor](https://www.frontendmentor.io) - Hubble Landing Page with Alternating Feature blocks challenge.
