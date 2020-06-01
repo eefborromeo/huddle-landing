@@ -17,7 +17,9 @@ The designs are in JPG static format and to use best judgment for styles such as
 ## Design Previews
 
 **Desktop Design**
+
 ![Desktop design](./design/desktop-design.jpg)
 
 **Mobile Design**
+
 ![Desktop design](./design/mobile-design.jpg)
