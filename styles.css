@@ -108,9 +108,13 @@ a:hover {
 }
 
 /* FOOTER */
-footer {
+footer,
+p.attribution {
   background-color: hsl(192, 100%, 9%);
   color: #ffffff;
+}
+
+footer {
   padding: 3rem 0 1rem;
 }
 
